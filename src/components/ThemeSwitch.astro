@@ -17,7 +17,7 @@ import Theme from "@/icons/themeSwitch.astro";
 		<select id="themeSwitch" name="themeSwitch" class="focus:ring-skin-hue ring-skin-muted block w-full rounded-md border-0 py-1.5 pl-3 pr-10 text-skin-base ring-1 ring-inset focus:ring-2 sm:text-sm sm:leading-6">
 			<option value="system">System</option>
 			<option value="dark">Dark</option>
-			<option value="light" selected >Light</option>
+			<option value="light">Light</option>
 		</select>
 	</div>
 
@@ -37,6 +37,7 @@ import Theme from "@/icons/themeSwitch.astro";
 		} else {
 			select.value = systemTheme;
 		}
+		
 
 		function updateTheme(value: string) {
 			const theme = value === "system" ? systemTheme : value;
@@ -45,11 +46,11 @@ import Theme from "@/icons/themeSwitch.astro";
 			localStorage.setItem("theme", value);
 		}
 
-		updateTheme(select.value);
+		updateTheme("light");
 
 		select.addEventListener("change", (event: Event) => {
 			const select = event.target as HTMLSelectElement;
-			updateTheme(select.value);
+			updateTheme("light");
 		});
 	</script>
 </div>
