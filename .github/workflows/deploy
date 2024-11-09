@@ -1,0 +1,39 @@
+name: Deploy Astro Portfolio to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Deploy when changes are pushed to the main branch
+  pull_request:
+    branches:
+      - main  # Also deploy on PR to main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # Running on Ubuntu environment
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3  # Checkout the repository code
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'  # Specify your Node.js version
+
+      - name: Install pnpm
+        run: npm install -g pnpm  # Install pnpm package manager
+
+      - name: Install dependencies
+        run: pnpm install  # Install project dependencies
+
+      - name: Build Astro project
+        run: pnpm build  # Build the Astro project
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4  # Use this action to deploy to GitHub Pages
+        with:
+          branch: gh-pages  # Specify the branch you want to deploy to
+          folder: ./dist  # The folder containing the built Astro files
+          clean: true  # Clean up the old deployment before deploying new content
+          token: ${{ secrets.GITHUB_TOKEN }}  # GitHub token to push to the gh-pages branch
