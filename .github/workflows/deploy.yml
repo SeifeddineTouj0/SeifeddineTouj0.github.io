@@ -31,7 +31,7 @@ jobs:
         run: pnpm build  # Build the Astro project
 
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4.1.0  # Use this action to deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4  # Use this action to deploy to GitHub Pages
         with:
           branch: gh-pages  # Specify the branch you want to deploy to
           folder: ./dist  # The folder containing the built Astro files
