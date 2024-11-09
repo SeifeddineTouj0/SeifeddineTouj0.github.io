@@ -111,9 +111,16 @@ const profilesInfo = profiles.map(({ network, url }) => {
 </svg>`,
 			hotkey: "ctrl+P",
 			section: "Actions",
+			// handler: () => {
+			// 	window.print();
+			// },
 			handler: () => {
-				window.print();
-			},
+            const pdfUrl = "/Seifeddine-Touj-EN.pdf"; // Replace with the URL of your specific PDF file
+            const printWindow = window.open(pdfUrl, "_blank");
+            printWindow.onload = () => {
+                printWindow.print();
+            };
+        },
 		},
 		...data,
 	]);
