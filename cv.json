@@ -86,7 +86,8 @@
         "JavaScript",
         "CSS",
         "Scrum"
-      ]
+      ],
+      "url":"https://www.agrobourse.com"
     },
     {
       "name": "AgroBourse 360°SI",
@@ -116,14 +117,15 @@
         "JavaScript",
         "CSS",
         "Scrum"
-      ]
+      ],
+      "url":"https://www.agrobourse.com"
     }
   ],
   "volunteer": [
     {
       "name": "Optima Junior Entreprise",
       "position": "President",
-      "url": "https://linkedin.com/company/optima-junior-entreprise",
+      "url": "https://optimaje.com",
       "startDate": "2023-01-01",
       "endDate": "2024-01-01",
       "summary": "Led strategic planning and operations to align Optima's goals and enhance its reputation.",
@@ -162,7 +164,8 @@
       ],
       "achievements": [
         "Successfully delivered all projects on schedule, increasing client retention by 15%."
-      ]
+      ],
+      "url": "https://optimaje.com"
     },
     {
       "name": "Optima Junior Entreprise",
@@ -179,26 +182,18 @@
       ],
       "achievements": [
         "Completed 100% of projects within deadlines, with positive client feedback."
-      ]
+      ],
+      "url": "https://optimaje.com"
     }
   ],
   "education": [
     {
       "institution": "Faculty of Sciences Tunis",
       "url": "",
-      "area": "Software Engineering",
+      "area": "5 years Bachelor's degree in Software Engineering",
       "studyType": "Engineering Cycle",
-      "startDate": "2022-09-01",
-      "endDate": "Present",
-      "score": ""
-    },
-    {
-      "institution": "Faculty of Sciences Tunis",
-      "url": "",
-      "area": "Science Preparatory Cycle",
-      "studyType": "Integrated preparatory cycle",
       "startDate": "2020-09-01",
-      "endDate": "2022-06-01",
+      "endDate": "2025",
       "score": ""
     },
     {
@@ -370,7 +365,7 @@
         "Collaborated on database schema design and complex business logic",
         "Integrated modules for workforce management, including attendance and leave tracking"
       ],
-      "url": "",
+      "url": "https://www.linkedin.com/company/synapsehrsolution",
       "responsibilities": [
         "Gathered requirements and designed scalable database schemas",
         "Implemented core functionality with Python, Odoo, and Docker",
@@ -390,7 +385,7 @@
         "Developed core functionalities, ensuring ease of use",
         "Managed client needs, ensuring alignment with branding"
       ],
-      "url": "",
+      "url": "https://chromewebstore.google.com/detail/aikedin/bfflbfpjfhicaboicheecmgkjcgmngai",
       "responsibilities": [
         "Built the extension for editing LinkedIn posts and managing grammar",
         "Handled backend plugins, authentication, and user access control"
@@ -402,24 +397,6 @@
       "skills": ["JavaScript", "Chrome Extensions", "OAuth", "CSS", "HTML5"]
     },
     {
-      "name": "CCI Boost",
-      "isActive": true,
-      "description": "Community platform connecting CCI professionals and donors, facilitating access to resources.",
-      "highlights": [
-        "Designed user-friendly features meeting the needs of CCI professionals",
-        "Solved bugs to ensure platform reliability"
-      ],
-      "url": "",
-      "responsibilities": [
-        "Conducted client meetings to gather and incorporate feedback",
-        "Maintained platform accessibility and functionality"
-      ],
-      "achievements": [
-        "Increased user satisfaction by aligning platform with user needs"
-      ],
-      "skills": ["PHP", "MySQL", "JavaScript", "WordPress", "Scrum"]
-    },
-    {
       "name": "JOIN",
       "isActive": true,
       "description": "A recruitment platform for junior enterprises, offering customizable recruitment flows.",
@@ -427,7 +404,7 @@
         "Developed features like interview management and form creation",
         "Maintained the platform during recruitment phases"
       ],
-      "url": "https://github.com/khaledlajili/join",
+      "url": "https://join.optimajuniorentreprise.com",
       "responsibilities": [
         "Collaborated on platform conception and created necessary diagrams",
         "Resolved development issues to ensure a smooth user experience"
@@ -439,24 +416,6 @@
       "github": "https://github.com/khaledlajili/join"
     },
     {
-      "name": "Student+",
-      "isActive": true,
-      "description": "Platform matching students with job and internship opportunities based on preferences.",
-      "highlights": [
-        "Developed backend features for job matching and user verification",
-        "Integrated online payment functionality"
-      ],
-      "url": "",
-      "responsibilities": [
-        "Implemented matching features to connect students with relevant opportunities",
-        "Ensured platform security through user verification and identity checks"
-      ],
-      "achievements": [
-        "Streamlined job search experience for students and employers"
-      ],
-      "skills": ["JavaScript", "PHP", "CSS", "HTML5", "WordPress"]
-    },
-    {
       "name": "Shyk.fr",
       "isActive": true,
       "description": "Online marketplace for wellness and sports trips, with advanced booking features for partners.",
@@ -464,7 +423,7 @@
         "Developed trip publishing tools and booking systems",
         "Managed project with Agile Scrum to meet deadlines and budgets"
       ],
-      "url": "",
+      "url": "https://shyk.fr",
       "responsibilities": [
         "Facilitated client meetings and gathered evolving requirements",
         "Prepared backlogs, conducted team meetings, and managed development"
