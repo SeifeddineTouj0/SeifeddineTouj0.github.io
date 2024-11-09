@@ -1,161 +1,206 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Seifeddine Touj",
+    "label": "Software Engineering Student",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "email": "seifeddine.touj1@gmail.com",
+    "phone": "+216 90 410 480",
+    "url": "https://github.com/seifeddineTouj0",
+    "summary": "Passionate Software Engineering Student with a focus on full-stack development and extensive experience in web applications, team leadership, and strategic planning.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "",
+      "city": "Ariana",
+      "countryCode": "TN",
+      "region": "Tunisia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "seifeddine-touj",
+        "url": "https://linkedin.com/in/seifeddine-touj"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "seifeddineTouj0",
+        "url": "https://github.com/seifeddineTouj0"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "Aidodev",
+      "position": "Web Development Intern",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "location": "Tunis, Tunisia",
+      "url": "https://infiniteblocks.io",
+      "startDate": "2024-07-01",
+      "endDate": "2024-08-31",
+      "summary": "Contributed to InfiniteBlocks, a platform for AI-powered podcast generation and sentiment analysis in cryptocurrency news.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Developed microservices and managed the microservice hub for optimal performance.",
+        "Integrated Auth0 for authentication with decentralized login methods (Ethereum, Solana)."
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Developed microservices to enhance application modularity and scalability.",
+        "Collaborated with cross-functional teams to design and implement decentralized authentication."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Successfully implemented decentralized login, improving security for over 100 daily users."
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
+        "Next.js",
+        "Golang",
+        "FastApi",
         "Python",
-        "Django",
-        "SQL",
+        "Auth0",
         "Git"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "name": "AgroBourse 360°SI",
+      "position": "Part-time Developer",
+      "location_type": "Hybrid",
+      "location": "Tunis, Tunisia",
+      "startDate": "2023-09-01",
+      "endDate": "2024-02-28",
+      "summary": "Focused on feature creation, integration, and troubleshooting in Synapse HR Solution, an HR management app.",
       "highlights": [
-        "Completed several client projects successfully"
+        "Adapted the app to meet evolving user needs through client feedback integration."
+      ],
+      "responsibilities": [
+        "Developed and maintained backend services to support HR functionality.",
+        "Collaborated with stakeholders to adjust features based on client feedback."
+      ],
+      "achievements": [
+        "Enhanced HR app usability, resulting in a 15% increase in customer satisfaction."
       ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Python",
+        "PostgreSQL",
+        "Odoo",
+        "Docker",
+        "Git",
+        "XML",
+        "JavaScript",
+        "CSS",
+        "Scrum"
+      ]
+    },
+    {
+      "name": "AgroBourse 360°SI",
+      "position": "Development Intern",
+      "location_type": "Hybrid",
+      "location": "Tunis, Tunisia",
+      "startDate": "2023-07-01",
+      "endDate": "2023-09-30",
+      "summary": "Developed the initial version of Synapse HR Solution tailored for HR management needs.",
+      "highlights": [
+        "Implemented features for tracking employee attendance, leave, productivity, and efficiency."
+      ],
+      "responsibilities": [
+        "Designed and developed core HR features, including attendance tracking and leave management.",
+        "Worked in a cross-functional team to prototype solutions based on user research."
+      ],
+      "achievements": [
+        "Launched the HR platform on time, meeting all initial functional requirements."
+      ],
+      "skills": [
+        "Python",
+        "PostgreSQL",
+        "Odoo",
+        "Docker",
+        "Git",
+        "XML",
+        "JavaScript",
+        "CSS",
+        "Scrum"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
+      "organization": "Optima Junior Entreprise",
+      "position": "President",
+      "url": "https://linkedin.com/company/optima-junior-entreprise",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Led strategic planning and operations to align Optima's goals and enhance its reputation.",
+      "highlights": [
+        "Directed operations to ensure Optima's efficiency and successful goal attainment.",
+        "Spearheaded strategic planning efforts to align vision with actionable goals."
+      ],
+      "responsibilities": [
+        "Oversaw strategic projects to ensure alignment with Optima's mission.",
+        "Managed a cross-functional team, focusing on stakeholder engagement and support."
+      ],
+      "achievements": [
+        "Achieved 20% growth in key performance areas, bolstering Optima's market reputation."
+      ]
+    },
+    {
+      "organization": "Optima Junior Entreprise",
+      "position": "IT Department Manager",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Led development teams and managed client relationships to deliver successful projects.",
+      "highlights": [
+        "Developed dashboards to enhance client satisfaction and ensure successful project outcomes."
+      ],
+      "responsibilities": [
+        "Coordinated IT initiatives, including tool maintenance and team skill development.",
+        "Liaised with clients to understand and fulfill project requirements."
+      ],
+      "achievements": [
+        "Successfully delivered all projects on schedule, increasing client retention by 15%."
+      ]
+    },
+    {
+      "organization": "Optima Junior Entreprise",
+      "position": "Developer",
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "summary": "Gained significant experience in web development across various projects.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Contributed to over 7 projects, developing strong project management skills."
+      ],
+      "responsibilities": [
+        "Built and maintained websites, enhancing overall user experience and functionality.",
+        "Collaborated with team members to meet project deadlines and quality standards."
+      ],
+      "achievements": [
+        "Completed 100% of projects within deadlines, with positive client feedback."
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
+      "institution": "Faculty of Sciences Tunis",
+      "url": "",
       "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
+      "studyType": "Engineering Cycle",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "score": ""
     },
     {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "institution": "Faculty of Sciences Tunis",
+      "url": "",
+      "area": "Science Preparatory Cycle",
+      "studyType": "Integrated preparatory cycle",
+      "startDate": "2020-09-01",
+      "endDate": "2022-06-01",
+      "score": ""
+    },
+    {
+      "institution": "Hannibal High School",
+      "url": "",
+      "area": "Technological Studies",
+      "studyType": "Baccalaureate",
+      "startDate": "2016-09-01",
+      "endDate": "2020-06-01",
+      "score": ""
     }
   ],
   "certificates": [
@@ -168,197 +213,259 @@
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
+      "name": "Next.js",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "React Framework", "SSR", "Static Generation"]
     },
     {
-      "name": "Gitlab",
+      "name": "Angular",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Web Development", "Frontend", "JavaScript Framework"]
     },
     {
-      "name": "HTML",
+      "name": "Spring Boot",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
+      "keywords": ["Backend", "Java", "Microservices"]
     },
     {
-      "name": "CSS",
+      "name": "FastApi",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
+      "keywords": ["Backend", "Python", "API"]
+    },
+    {
+      "name": "Symfony",
+      "level": "Intermediate",
+      "keywords": ["Backend", "PHP", "Web Development"]
+    },
+    {
+      "name": "CodeIgniter",
+      "level": "Intermediate",
+      "keywords": ["Backend", "PHP", "MVC Framework"]
+    },
+    {
+      "name": "Golang",
+      "level": "Intermediate",
+      "keywords": ["Backend", "Microservices"]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": ["Backend", "Data Processing"]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": ["Backend", "Object-Oriented Programming"]
+    },
+    {
+      "name": "C++",
+      "level": "Intermediate",
+      "keywords": ["Object-Oriented Programming", "Systems Programming"]
     },
     {
       "name": "JavaScript",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
+      "keywords": ["Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "TypeScript",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "keywords": ["Web Development", "JavaScript Superset", "Static Typing"]
     },
     {
-      "name": "Node",
+      "name": "HTML",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Intermediate",
+      "keywords": ["CSS Framework", "Responsive Design", "Utility-First"]
+    },
+    {
+      "name": "Flutter",
+      "level": "Beginner",
+      "keywords": ["Mobile Development", "Cross-Platform"]
     },
     {
       "name": "MySQL",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "keywords": ["Databases", "SQL", "Data Storage"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Data Management"]
+    },
+    {
+      "name": "AWS",
+      "level": "Beginner",
+      "keywords": ["Cloud Computing", "DevOps"]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Beginner",
+      "keywords": ["Containers", "Orchestration", "DevOps"]
+    },
+    {
+      "name": "Terraform",
+      "level": "Beginner",
+      "keywords": ["Infrastructure as Code", "Automation", "DevOps"]
+    },
+    {
+      "name": "Jenkins",
+      "level": "Intermediate",
+      "keywords": ["CI/CD", "Automation"]
     },
     {
       "name": "Git",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Version Control", "Collaboration"]
     },
     {
       "name": "GitHub",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
+      "name": "GitLab",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Arabic",
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
-    }
-  ],
-  "interests": [
+      "language": "French",
+      "fluency": "Proficient"
+    },
     {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "language": "English",
+      "fluency": "Proficient"
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "Synapse HR Solution",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "A robust platform revolutionizing human resources management, covering employee attendance, leave management, productivity tracking, recruitment, and skill enhancement.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Architected core functionality for reliability and scalability",
+        "Collaborated on database schema design and complex business logic",
+        "Integrated modules for workforce management, including attendance and leave tracking"
       ],
-      "url": "https://weatherapp.com"
+      "url": "",
+      "responsibilities": [
+        "Gathered requirements and designed scalable database schemas",
+        "Implemented core functionality with Python, Odoo, and Docker",
+        "Led agile development sprints and ensured timely feature delivery"
+      ],
+      "achievements": [
+        "Improved HR efficiency through feature integration",
+        "Enhanced stakeholder satisfaction by iterating based on feedback"
+      ],
+      "skills": ["Python", "Odoo", "Docker", "Git", "XML", "JavaScript", "CSS", "PostgreSQL"]
     },
     {
-      "name": "Task Manager",
+      "name": "Aikedin",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "A Chrome extension that corrects spelling and grammar mistakes, generating targeted comments to improve LinkedIn engagement.",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Developed core functionalities, ensuring ease of use",
+        "Managed client needs, ensuring alignment with branding"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "",
+      "responsibilities": [
+        "Built the extension for editing LinkedIn posts and managing grammar",
+        "Handled backend plugins, authentication, and user access control"
+      ],
+      "achievements": [
+        "Increased LinkedIn engagement by improving post quality",
+        "Enhanced security through OAuth2 authentication"
+      ],
+      "skills": ["JavaScript", "Chrome Extensions", "OAuth", "CSS", "HTML5"]
     },
     {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "CCI Boost",
+      "isActive": true,
+      "description": "Community platform connecting CCI professionals and donors, facilitating access to resources.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Designed user-friendly features meeting the needs of CCI professionals",
+        "Solved bugs to ensure platform reliability"
       ],
-      "url": "https://ecommerce.com"
+      "url": "",
+      "responsibilities": [
+        "Conducted client meetings to gather and incorporate feedback",
+        "Maintained platform accessibility and functionality"
+      ],
+      "achievements": [
+        "Increased user satisfaction by aligning platform with user needs"
+      ],
+      "skills": ["PHP", "MySQL", "JavaScript", "WordPress", "Scrum"]
+    },
+    {
+      "name": "JOIN",
+      "isActive": true,
+      "description": "A recruitment platform for junior enterprises, offering customizable recruitment flows.",
+      "highlights": [
+        "Developed features like interview management and form creation",
+        "Maintained the platform during recruitment phases"
+      ],
+      "url": "https://github.com/khaledlajili/join",
+      "responsibilities": [
+        "Collaborated on platform conception and created necessary diagrams",
+        "Resolved development issues to ensure a smooth user experience"
+      ],
+      "achievements": [
+        "Deployed platform with positive feedback from junior enterprises"
+      ],
+      "skills": ["Symfony", "PHP", "JavaScript", "CSS", "HTML5"],
+      "github": "https://github.com/khaledlajili/join"
+    },
+    {
+      "name": "Student+",
+      "isActive": true,
+      "description": "Platform matching students with job and internship opportunities based on preferences.",
+      "highlights": [
+        "Developed backend features for job matching and user verification",
+        "Integrated online payment functionality"
+      ],
+      "url": "",
+      "responsibilities": [
+        "Implemented matching features to connect students with relevant opportunities",
+        "Ensured platform security through user verification and identity checks"
+      ],
+      "achievements": [
+        "Streamlined job search experience for students and employers"
+      ],
+      "skills": ["JavaScript", "PHP", "CSS", "HTML5", "WordPress"]
+    },
+    {
+      "name": "Shyk.fr",
+      "isActive": true,
+      "description": "Online marketplace for wellness and sports trips, with advanced booking features for partners.",
+      "highlights": [
+        "Developed trip publishing tools and booking systems",
+        "Managed project with Agile Scrum to meet deadlines and budgets"
+      ],
+      "url": "",
+      "responsibilities": [
+        "Facilitated client meetings and gathered evolving requirements",
+        "Prepared backlogs, conducted team meetings, and managed development"
+      ],
+      "achievements": [
+        "Enhanced user experience through feature-rich, accessible design"
+      ],
+      "skills": ["JavaScript", "PHP", "CSS", "WordPress"]
     }
   ]
+
 }
