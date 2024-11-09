@@ -2,7 +2,7 @@
   "basics": {
     "name": "Seifeddine Touj",
     "label": "Software Engineering Student",
-    "image": "/me_avatar.jpg",
+    "image": "https://media.licdn.com/dms/image/v2/D4E03AQHhWWSrXADa-g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1667299914094?e=1736380800&v=beta&t=Ky41vHmry6Y4J1elSwgcGsOpDFT7KFUsVGJAot5y2Jw",
     "email": "seifeddine.touj1@gmail.com",
     "phone": "+216 90 410 480",
     "url": "https://github.com/seifeddineTouj0",
@@ -121,7 +121,7 @@
   ],
   "volunteer": [
     {
-      "organization": "Optima Junior Entreprise",
+      "name": "Optima Junior Entreprise",
       "position": "President",
       "url": "https://linkedin.com/company/optima-junior-entreprise",
       "startDate": "2023-01-01",
@@ -137,10 +137,18 @@
       ],
       "achievements": [
         "Achieved 20% growth in key performance areas, bolstering Optima's market reputation."
+      ],
+      "location_type":"Hybrid",
+      "location":"Tunis, Tunisia",
+      "skills": [
+        "Strategic Planning",
+        "Operations Management",
+        "Team Leadership",
+        "Stakeholder Engagement"
       ]
     },
     {
-      "organization": "Optima Junior Entreprise",
+      "name": "Optima Junior Entreprise",
       "position": "IT Department Manager",
       "startDate": "2022-01-01",
       "endDate": "2023-01-01",
@@ -157,7 +165,7 @@
       ]
     },
     {
-      "organization": "Optima Junior Entreprise",
+      "name": "Optima Junior Entreprise",
       "position": "Developer",
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
