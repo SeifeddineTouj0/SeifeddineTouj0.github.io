@@ -30,9 +30,9 @@
   },
   "work": [
     {
-      "name": "Aidodev",
+      "name": "InfiniteBlocks",
       "position": "Web Development Intern",
-      "location_type": "On site",
+      "location_type": "Remote",
       "location": "Tunis, Tunisia",
       "url": "https://infiniteblocks.io",
       "startDate": "2024-07-01",
@@ -43,11 +43,8 @@
         "Integrated Auth0 for authentication with decentralized login methods (Ethereum, Solana)."
       ],
       "responsibilities": [
-        "Developed microservices to enhance application modularity and scalability.",
-        "Collaborated with cross-functional teams to design and implement decentralized authentication."
-      ],
-      "achievements": [
-        "Successfully implemented decentralized login, improving security for over 100 daily users."
+        "Contributed to the developement of microservices to enhance application modularity and scalability.",
+        "Collaborated with cross-functional teams to integrate a decentralized authentication system."
       ],
       "skills": [
         "Next.js",
@@ -72,9 +69,6 @@
       "responsibilities": [
         "Developed and maintained backend services to support HR functionality.",
         "Collaborated with stakeholders to adjust features based on client feedback."
-      ],
-      "achievements": [
-        "Enhanced HR app usability, resulting in a 15% increase in customer satisfaction."
       ],
       "skills": [
         "Python",
@@ -103,9 +97,6 @@
       "responsibilities": [
         "Designed and developed core HR features, including attendance tracking and leave management.",
         "Worked in a cross-functional team to prototype solutions based on user research."
-      ],
-      "achievements": [
-        "Launched the HR platform on time, meeting all initial functional requirements."
       ],
       "skills": [
         "Python",
@@ -138,7 +129,7 @@
         "Managed a cross-functional team, focusing on stakeholder engagement and support."
       ],
       "achievements": [
-        "Achieved 20% growth in key performance areas, bolstering Optima's market reputation."
+        "Achieved 50% growth in key performance areas, bolstering Optima's market reputation."
       ],
       "location_type":"Hybrid",
       "location":"Tunis, Tunisia",
@@ -163,7 +154,7 @@
         "Liaised with clients to understand and fulfill project requirements."
       ],
       "achievements": [
-        "Successfully delivered all projects on schedule, increasing client retention by 15%."
+        "Successfully delivered 14 projects on schedule, increasing client retention by 60%."
       ],
       "url": "https://optimaje.com"
     },
@@ -181,7 +172,7 @@
         "Collaborated with team members to meet project deadlines and quality standards."
       ],
       "achievements": [
-        "Completed 100% of projects within deadlines, with positive client feedback."
+        "Contributed to over 7 projects, with positive client feedback."
       ],
       "url": "https://optimaje.com"
     }
@@ -199,11 +190,11 @@
     {
       "institution": "Hannibal High School",
       "url": "",
-      "area": "Technological Studies",
+      "area": "Tunisian Baccalaureate in Technological Studies",
       "studyType": "Baccalaureate",
       "startDate": "2016-09-01",
       "endDate": "2020-06-01",
-      "score": ""
+      "score": "18.03/20"
     }
   ],
   "certificates": [
@@ -380,7 +371,7 @@
     {
       "name": "Aikedin",
       "isActive": true,
-      "description": "A Chrome extension that corrects spelling and grammar mistakes, generating targeted comments to improve LinkedIn engagement.",
+      "description": "A Chrome extension that helps you create Linkedin posts, corrects spelling and grammar mistakes. Additionally it help you generate targeted comments to improve LinkedIn engagement.",
       "highlights": [
         "Developed core functionalities, ensuring ease of use",
         "Managed client needs, ensuring alignment with branding"
@@ -402,7 +393,10 @@
       "description": "A recruitment platform for junior enterprises, offering customizable recruitment flows.",
       "highlights": [
         "Developed features like interview management and form creation",
-        "Maintained the platform during recruitment phases"
+        "Maintained the platform during recruitment phases",
+        "Enabled customizable recruitment workflows to meet the unique needs of different junior enterprises",
+        "Enhanced recruiter management with features to organize and track candidate progress",
+        "Optimized platform performance to handle multiple concurrent users during peak recruitment periods"
       ],
       "url": "https://join.optimajuniorentreprise.com",
       "responsibilities": [
@@ -415,6 +409,60 @@
       "skills": ["Symfony", "PHP", "JavaScript", "CSS", "HTML5"],
       "github": "https://github.com/khaledlajili/join"
     },
+    {
+      "name": "DevOps Pipeline Project",
+      "isActive": false,
+      "description": "An academic project for implementing a comprehensive DevOps pipeline that integrates automated testing, CI/CD, Docker, AWS EKS, and Kubernetes.",
+      "highlights": [
+        "Built CI/CD pipeline with Jenkins, integrating stages like Git checkout, Maven build, and unit testing",
+        "Configured Docker image creation and pushed to Docker Hub, and deployed using Docker Compose",
+        "Implemented AWS EKS cluster deployment with Terraform and automated Helm deployment on Kubernetes",
+        "Integrated monitoring with Prometheus and conducted performance tests with JMeter"
+      ],
+      "url": "",
+      "responsibilities": [
+        "Collaborated in a team to design and implement each pipeline stage",
+        "Configured and executed unit tests using Mockito",
+        "Managed Docker image creation and handled automated deployments to AWS EKS cluster"
+      ],
+      "achievements": [
+        "Enhanced CI/CD pipeline efficiency through automated testing and monitoring",
+        "Improved application stability with thorough performance testing and Kubernetes management"
+      ],
+      "skills": [
+        "Jenkins",
+        "Maven",
+        "Docker",
+        "AWS",
+        "Kubernetes",
+        "Terraform",
+        "Helm",
+        "Prometheus",
+        "JMeter",
+        "Mockito"
+      ],"github": "https://github.com/FaderFtw/IGL5-G1-ProjetFoyer"
+    },
+    {
+      "name": "La Centrale Des Ferries",
+      "isActive": true,
+      "description": "A group of websites for booking ferry crossings in the Mediterranean, streamlining the reservation process and site management for ferry services.",
+      "highlights": [
+        "Redesigned and optimized internal website functionality",
+        "Centralized management to simplify operations and enhance efficiency",
+        "Resolved security and deployment issues in collaboration with client and service providers"
+      ],
+      "url": "https://www.lacentraledesferries.com",
+      "responsibilities": [
+        "Collaborated with clients and third-party providers to address functionality needs",
+        "Handled security incident management and optimized deployment processes",
+        "Troubleshooted internal functionality issues to maintain site reliability"
+      ],
+      "achievements": [
+        "Improved operational efficiency through centralized site management",
+        "Enhanced security measures, ensuring a smoother and safer user experience"
+      ],
+      "skills": ["PHP", "JavaScript", "CSS", "Security", "Deployment", "Client Collaboration"]
+    },        
     {
       "name": "Shyk.fr",
       "isActive": true,
