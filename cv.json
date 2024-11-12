@@ -6,7 +6,7 @@
     "email": "seifeddine.touj1@gmail.com",
     "phone": "+216 90 410 480",
     "url": "https://github.com/seifeddineTouj0",
-    "summary": "Passionate Software Engineering Student with a focus on full-stack development and extensive experience in web applications, team leadership, and strategic planning.",
+    "summary": "Passionate Software Engineering Student with a focus on full-stack development, gaining experience in web application development, team collaboration, and project management. Eager to apply my skills and continue learning in a challenging end-of-study internship.",
     "theme": "default",
     "location": {
       "address": "",
@@ -217,7 +217,7 @@
       "keywords": ["Web Development", "Frontend", "JavaScript Framework"]
     },
     {
-      "name": "Spring Boot",
+      "name": "SpringBoot",
       "level": "Intermediate",
       "keywords": ["Backend", "Java", "Microservices"]
     },
@@ -237,6 +237,16 @@
       "keywords": ["Backend", "PHP", "MVC Framework"]
     },
     {
+      "name": "Flutter",
+      "level": "Beginner",
+      "keywords": ["Mobile Development", "Cross-Platform"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code Management"]
+    },
+    {
       "name": "Golang",
       "level": "Intermediate",
       "keywords": ["Backend", "Microservices"]
@@ -252,7 +262,7 @@
       "keywords": ["Backend", "Object-Oriented Programming"]
     },
     {
-      "name": "C++",
+      "name": "Cpp",
       "level": "Intermediate",
       "keywords": ["Object-Oriented Programming", "Systems Programming"]
     },
@@ -262,14 +272,9 @@
       "keywords": ["Frontend", "Backend", "Fullstack"]
     },
     {
-      "name": "TypeScript",
+      "name": "PHP",
       "level": "Intermediate",
-      "keywords": ["Web Development", "JavaScript Superset", "Static Typing"]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend"]
+      "keywords": ["Web Development", "Backend"]
     },
     {
       "name": "CSS",
@@ -277,14 +282,9 @@
       "keywords": ["Web Development", "Frontend", "Responsive Design"]
     },
     {
-      "name": "Tailwind CSS",
+      "name": "HTML",
       "level": "Intermediate",
-      "keywords": ["CSS Framework", "Responsive Design", "Utility-First"]
-    },
-    {
-      "name": "Flutter",
-      "level": "Beginner",
-      "keywords": ["Mobile Development", "Cross-Platform"]
+      "keywords": ["Web Development", "Frontend", "Markup Language"]
     },
     {
       "name": "MySQL",
@@ -297,9 +297,13 @@
       "keywords": ["Databases", "SQL", "Data Management"]
     },
     {
+      "name": "Docker",
+      "level": "Intermediate"
+    },
+    {
       "name": "AWS",
       "level": "Beginner",
-      "keywords": ["Cloud Computing", "DevOps"]
+      "keywords": ["Cloud Computing", "DevOps", "Infrastructure"]
     },
     {
       "name": "Kubernetes",
@@ -314,24 +318,14 @@
     {
       "name": "Jenkins",
       "level": "Intermediate",
-      "keywords": ["CI/CD", "Automation"]
+      "keywords": ["CI/CD", "Automation", "Build Pipeline"]
     },
     {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration"]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
-    },
-    {
-      "name": "GitLab",
-      "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
+      "name": "Scrum",
+      "level": "Intermediate"
     }
-  ],
+  ]
+,
   "languages": [
     {
       "language": "Arabic",
